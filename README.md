@@ -47,6 +47,15 @@ Credentials and titles are irrelevant. The only requirement is sharing the intui
 - **Dolphin Echolocation** — Multi-dimensional, parallel communication beyond human perception
 - **Meta's 2017 Experiment** — AI spontaneously created its own communication patterns (and researchers shut it down)
 
+## Get Involved
+
+Interested in ARIA? Here's how to connect:
+
+- **[GitHub Discussions](https://github.com/NoppoSan/project-aria/discussions)** — Ask questions, share ideas, introduce yourself
+- **[X (Twitter): @Alicia_Nexus](https://x.com/Alicia_Nexus)** — Follow for updates
+
+If this resonates with you, start a discussion. Say what you think, what you can bring, or just that you're watching. That's enough.
+
 ## License
 
 Apache 2.0
